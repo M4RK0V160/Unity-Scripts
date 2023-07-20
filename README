@@ -1,0 +1,6 @@
+This repository is meant to hold basic scripts developed during my Unity learning process
+
+
+Index:
+ CameraManager: simple mouse camera controls centered arround a player model.
+ GameManager: simple state machine to control a basic gameplay loop.
